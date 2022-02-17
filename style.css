@@ -1,0 +1,28 @@
+#purchase{
+    padding: 80px 0px;
+}
+.purchase{
+    background-color: #dfe4ea !important;
+    border: 2px solid rgb(235, 229, 229) !important;
+    border-radius: 5px;
+}
+
+.choose_number_of_user input{
+    border: 2px solid gainsboro;
+    border-radius: 6px;
+    padding: 15px 0px;
+}
+.choose_number_of_user input:focus{
+    outline: none;
+}
+.most_popular{
+    background-color: white;
+    border: 2px solid gainsboro;
+    padding: 15px;
+}
+.payment-img{
+    width: 150px;
+}
+.paypal-img{
+    width: 70px;
+}
